@@ -3,10 +3,14 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/app-compiled.js" />
+        <item url="file://$PROJECT_DIR$/jquery-2.1.1.min-compiled.js" />
+        <item url="file://$PROJECT_DIR$/jquery.min-compiled.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app-compiled.js" />
+      <root url="file://$PROJECT_DIR$/jquery-2.1.1.min-compiled.js" />
+      <root url="file://$PROJECT_DIR$/jquery.min-compiled.js" />
     </CLASSES>
     <SOURCES />
   </library>
